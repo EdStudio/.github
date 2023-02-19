@@ -1,4 +1,4 @@
-![Top decoration](assets/top.png)
+![Top decoration](https://raw.githubusercontent.com/EdStudio/.github/main/profile/assets/top.png)
 
 ## Hi there 👋
 
@@ -8,4 +8,4 @@
 
 📚 We are open to any contribution, whether you are a developer, system admin or security expert. Some repositories are not yet open to the public. If you want to contribute, you can contact Enzo by Telegram [@EnzoDeg40](https://t.me/EnzoDeg40).
 
-![Bottom decoration](assets/bot.png)
+![Bottom decoration](https://raw.githubusercontent.com/EdStudio/.github/main/profile/assets/bot.png)
